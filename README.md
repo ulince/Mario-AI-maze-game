@@ -1,6 +1,7 @@
 #IS303 Software Architecture project
 Mario maze game developed in C#.
 Instructions:
+
 1. Select the number of rows and columns, then hit "Generar".
 2. Click on any number of cells to create goomba obstacles. When you're done, hit "Iniciar".
 3. Click on a cell to make it the starting point for Mario.
